@@ -1,0 +1,39 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #007BFF;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+}
+
+.blog-links {
+    list-style: none;
+    padding: 0;
+}
+
+.blog-links li {
+    margin-bottom: 10px;
+}
+
+.blog-links a {
+    text-decoration: none;
+    color: #007BFF;
+}
+
+.blog-links a:hover {
+    text-decoration: underline;
+}
+
+.blog-image {
+    max-width: 30rem;
+}
