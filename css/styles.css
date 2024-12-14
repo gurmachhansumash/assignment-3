@@ -37,3 +37,7 @@ main {
 .blog-image {
     max-width: 30rem;
 }
+
+img {
+    max-width: 600px;
+}
